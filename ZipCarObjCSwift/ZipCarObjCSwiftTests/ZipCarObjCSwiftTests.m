@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
-#import "ZipCarObjCSwiftTests-Swift.h"
+//#import "ZipCarObjCSwift-Swift.h"
 
 @interface ZipCarObjCSwiftTests : XCTestCase
 {

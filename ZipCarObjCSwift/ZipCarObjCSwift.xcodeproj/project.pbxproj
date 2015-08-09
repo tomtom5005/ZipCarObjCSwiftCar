@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E21B7D271B76869600DD5387 /* RomanNumeral.swift in CopyFiles */ = {isa = PBXBuildFile; fileRef = E2F96B1C1B767A5700EC1A62 /* RomanNumeral.swift */; };
+		E21B7D891B777A5C00DD5387 /* ZipCarObjcSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21B7D881B777A5C00DD5387 /* ZipCarObjcSwiftTests.swift */; };
 		E2F96AF81B7679B300EC1A62 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E2F96AF71B7679B300EC1A62 /* main.m */; };
 		E2F96AFB1B7679B300EC1A62 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E2F96AFA1B7679B300EC1A62 /* AppDelegate.m */; };
 		E2F96AFE1B7679B300EC1A62 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2F96AFD1B7679B300EC1A62 /* ViewController.m */; };
@@ -43,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E21B7D881B777A5C00DD5387 /* ZipCarObjcSwiftTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZipCarObjcSwiftTests.swift; sourceTree = "<group>"; };
 		E2F96AF21B7679B300EC1A62 /* ZipCarObjCSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZipCarObjCSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2F96AF61B7679B300EC1A62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E2F96AF71B7679B300EC1A62 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				E2F96B111B7679B300EC1A62 /* ZipCarObjCSwiftTests.m */,
+				E21B7D881B777A5C00DD5387 /* ZipCarObjcSwiftTests.swift */,
 				E2F96B0F1B7679B300EC1A62 /* Supporting Files */,
 			);
 			path = ZipCarObjCSwiftTests;
@@ -253,6 +256,7 @@
 			files = (
 				E2F96B1E1B767F1100EC1A62 /* RomanNumeral.swift in Sources */,
 				E2F96B121B7679B300EC1A62 /* ZipCarObjCSwiftTests.m in Sources */,
+				E21B7D891B777A5C00DD5387 /* ZipCarObjcSwiftTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

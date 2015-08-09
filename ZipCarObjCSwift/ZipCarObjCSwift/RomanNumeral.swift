@@ -19,7 +19,7 @@ extension String {
 class RomanNumeral:NSObject {
     
     init(string: String) {
-        self.string = string
+        self.string = string.uppercaseString
     }
     
     var string:String
